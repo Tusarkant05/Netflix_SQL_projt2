@@ -1,1 +1,1 @@
-# Netflix_SQL_projt2
+# Netflix Movies and TV shows Analysis using SQL
